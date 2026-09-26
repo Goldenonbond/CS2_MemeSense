@@ -1,10 +1,10 @@
-💢5Chance — Software Development Group 
-💢Description:
+#💢5Chance — Software Development Group 
+#💢Description:
 We are a team of new developers.
 We would like to introduce you to our project.
 This project aims to improve and simplify the gaming experience.
 Our team offers high quality, uninterrupted stability, and, most importantly, the best blocking bypass!
-💢We are not just empty talkers and strive to deliver the best product, not just empty words.
+##💢We are not just empty talkers and strive to deliver the best product, not just empty words.
 💢Features  
 ESP (Wallhack) - See all enemies through walls  
 Distance Indicators - Know exactly how far enemies are  
